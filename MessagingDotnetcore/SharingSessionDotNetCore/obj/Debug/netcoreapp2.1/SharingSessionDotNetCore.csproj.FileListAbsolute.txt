@@ -1,0 +1,11 @@
+C:\Users\malhmoud\source\repos\SharingSessionDotNetCore\SharingSessionDotNetCore\bin\Debug\netcoreapp2.1\SharingSessionDotNetCore.deps.json
+C:\Users\malhmoud\source\repos\SharingSessionDotNetCore\SharingSessionDotNetCore\bin\Debug\netcoreapp2.1\SharingSessionDotNetCore.runtimeconfig.json
+C:\Users\malhmoud\source\repos\SharingSessionDotNetCore\SharingSessionDotNetCore\bin\Debug\netcoreapp2.1\SharingSessionDotNetCore.runtimeconfig.dev.json
+C:\Users\malhmoud\source\repos\SharingSessionDotNetCore\SharingSessionDotNetCore\bin\Debug\netcoreapp2.1\SharingSessionDotNetCore.dll
+C:\Users\malhmoud\source\repos\SharingSessionDotNetCore\SharingSessionDotNetCore\obj\Debug\netcoreapp2.1\SharingSessionDotNetCore.csprojAssemblyReference.cache
+C:\Users\malhmoud\source\repos\SharingSessionDotNetCore\SharingSessionDotNetCore\obj\Debug\netcoreapp2.1\SharingSessionDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\malhmoud\source\repos\SharingSessionDotNetCore\SharingSessionDotNetCore\obj\Debug\netcoreapp2.1\SharingSessionDotNetCore.AssemblyInfoInputs.cache
+C:\Users\malhmoud\source\repos\SharingSessionDotNetCore\SharingSessionDotNetCore\obj\Debug\netcoreapp2.1\SharingSessionDotNetCore.AssemblyInfo.cs
+C:\Users\malhmoud\source\repos\SharingSessionDotNetCore\SharingSessionDotNetCore\bin\Debug\netcoreapp2.1\SharingSessionDotNetCore.pdb
+C:\Users\malhmoud\source\repos\SharingSessionDotNetCore\SharingSessionDotNetCore\obj\Debug\netcoreapp2.1\SharingSessionDotNetCore.dll
+C:\Users\malhmoud\source\repos\SharingSessionDotNetCore\SharingSessionDotNetCore\obj\Debug\netcoreapp2.1\SharingSessionDotNetCore.pdb
